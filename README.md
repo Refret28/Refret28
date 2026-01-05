@@ -1,6 +1,6 @@
 ## Приветствую! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-**Refret28** – Python-разработчик с опытом создания разнообразных проектов: от Telegram-ботов до веб-приложений и решений с компьютерным зрением.
+Python-разработчик с опытом создания разнообразных проектов: от Telegram-ботов до веб-приложений и решений с компьютерным зрением.
 
 #### 🐍 Основные фреймворки и библиотеки:
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi)](https://fastapi.tiangolo.com/)
@@ -19,9 +19,9 @@
 
 #### 🛠️ Платформа потоковой передачи событий:
 [![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?logo=apache-kafka)](https://kafka.apache.org/)
-
+<!-- 
 ### 📊 Статистика по использованию языков:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Refret28&layout=compact&hide_title=true&theme=tokyonight&hide=bat,html,css,scss,shell,roff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Refret28&layout=compact&hide_title=true&theme=tokyonight&hide=bat,html,css,scss,shell,roff) -->
 
 ### 🗂️ Ключевые проекты:
 #### 🌐 Веб-приложение
